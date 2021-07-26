@@ -1,3 +1,4 @@
 # bagels
 # pizza
 # eggs
+# strawberries
